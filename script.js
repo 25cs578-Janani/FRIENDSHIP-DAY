@@ -1,5 +1,5 @@
 let message =
-"Thank you for always being there for me. ❤️ Happy Friendship Day! May our friendship stay forever. 🌸";
+"Happy Friendship Day! ❤️ I may not know the exact date of Friendship Day, but for me, today is our Friendship Day. I hope our friendship stays the same forever, filled with laughter, support, and wonderful memories. Once again, Happy Friendship Day! 💕";
 
 function unlock(){
 
